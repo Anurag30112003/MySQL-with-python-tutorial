@@ -1,1 +1,1 @@
-# MY SQL with Python Tutorial
+# Installation
