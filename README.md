@@ -8,7 +8,7 @@
 
 # Installation
 
-## Creating a virtual environment
+## Creating a virtual environment (optional)
     $ python3 -m venv venv (Linux/Mac)
     $ source venv/bin/activate
 
@@ -25,8 +25,8 @@
 
 ## Testing
     import mysql.connector
-    Run this file to test the installation and run this file
-    
+    Run this file to test the installation,if no errors are shown, the installation was successful.
+
 # Creating connection to SQL Server.
     import mysql.connector
     mydb = mysql.connector.connect(
